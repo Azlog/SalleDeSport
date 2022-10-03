@@ -54,5 +54,7 @@ Installation du site :
 
 Vous êtes pret à lancer votre site.
 
+/!\ Attention ce site est en bêta, il peut y avoir des bugs, si vous avez un probleme, contactez moi a l'adresse suivante : maxime.frt@icloud.com.
+
 
 
