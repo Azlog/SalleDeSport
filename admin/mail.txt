@@ -1,0 +1,24 @@
+ <!DOCTYPE html>
+            <html> 
+              <head> 
+                  <link rel="stylesheet" href="sportingclubdemarly.fr/assets/bootstrap/css/bootstrap.min.css">
+                <link rel="stylesheet" href="sportingclubdemarly.fr/assets/css/styles.css">
+                <link href="admin.css" rel="stylesheet" type="text/css">
+                <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+              </head> 
+             
+              <body>
+                <div class="bg-black">
+                  <div class="container">
+                    <h1 class="ax-center text-white text-center mb-10">Il y a eu du changements !</h1>
+                    <p class="ax-center max-w-96 lh-lg text-white text-center text-2xl mb-10">
+                      Nous vous souhaitons la bienvenue, voici les informations de votre compte :
+                    </p>
+                    <br>
+                    <p>Votre mot de passe temporaire est : <?php $pass ?> </p>
+                    
+                    <center><a class="btn btn-primary p-3 fw-700" href="sportingclubdemarly.fr">Connectez vous</a></center>
+                  </div>
+                </div>
+              </body>
+              </html>
